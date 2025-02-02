@@ -57,4 +57,4 @@ This bot is an advanced copytrading bot that monitors seamlessly the tracks of w
 ---------
 
 ### Supoprt
-It is not displaying the basic functions so when any dev needs a full codebase, feel free to leave issue or you can contact me here: [Twitter Profile](https://c.om/0xmooncity) as well.
+It is not displaying the basic functions so when any dev needs a full codebase, feel free to leave issue or you can contact me here: [Twitter Profile](https://x.com/0xmooncity) as well.
