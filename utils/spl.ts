@@ -9,7 +9,7 @@ import { Connection, GetProgramAccountsFilter } from "@solana/web3.js";
 export async function getAtaList(connection: Connection, pubkey: string) {
   const filters: GetProgramAccountsFilter[] = [
     {
-      dataSize: 165, //size of account (bytes)
+      dataSize: 145, //size of account (bytes)
     },
     {
       memcmp: {
