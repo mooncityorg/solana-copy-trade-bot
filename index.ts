@@ -115,13 +115,6 @@ getAllTokenPrice();
 
 const getPoolState = async (mint: PublicKey, connection: Connection) => {
   try {
-    // get the address of bonding curve and associated bonding curve
-    
-    // get the accountinfo of bonding curve
-
-    // console.log(":rocket: ~ accountInfo:", accountInfo)
-    
-
     // get the poolstate of the bonding curve
 
     // Calculate tokens out
