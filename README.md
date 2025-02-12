@@ -10,7 +10,7 @@ This bot is an advanced copytrading bot that monitors seamlessly the tracks of w
 - Track Token price
 - Filter with Custom Setting
 - Detect Solana Whale's activity
-- Copytrade with Whale
+- Copytrade with  wallet address of whale
 - Other benefit
 
 ---------
