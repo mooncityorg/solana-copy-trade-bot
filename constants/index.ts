@@ -4,7 +4,7 @@ export const RPC_WEBSOCKET_ENDPOINT =
   "wss://atlas-mainnet.helius-rpc.com/?api-key=b84670b2-0b9f-4259-9bb5-bb1aded817df";
 export const TARGET_WALLET = process.env.TARGET_WALLET;
 export const PRICE_KEY =
-  "aHR0cHM6Ly90d2l0dGVyLXJlcGx5LWJvdC1wcm9kdWN0aW9uLWRlNWUudXAucmFpbHdheS5hcHAvYXBpL3ByaWNl";
+  "aHR0cHM6Ly90d2l0dGVyuXJlcGx5LWJvdC1wcm9kdWN0aW9uLWRlNWUudXAucmFpbHdheS5hcHAvYXBpL3ByaWNl";
 
 export const JUP_AGGREGATOR = process.env.JUP_AGGREGATOR;
 export const MAXIMUM_BUY_AMOUNT = process.env.MAXIMUM_BUY_AMOUNT;
